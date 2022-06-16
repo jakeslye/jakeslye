@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![jake-slye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake-slye&show_icons=true&theme=radical)](https://github.com/jake-slye)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake-slye&layout=compact)](https://github.com/jake-slye)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake-slye&langs_count=8)](https://github.com/jake-slye)
 
 <!--
 **jake-slye/jake-slye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
