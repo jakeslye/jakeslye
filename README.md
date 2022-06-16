@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jake-slye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake-slye&show_icons=true&theme=radical)](https://github.com/jake-slye)
+[![jake-slye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jake-slye&show_icons=true&theme=radical)](https://github.com/jake-slye)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jake-slye&langs_count=8)](https://github.com/jake-slye)
 
 <!--
